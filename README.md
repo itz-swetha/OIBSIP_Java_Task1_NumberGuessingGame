@@ -6,6 +6,9 @@
 - Domain: Java Development
 - Task: Task 1 – Number Guessing Game
 
+## Note
+The main source file is located inside the `src` folder.
+
 ## Project Description
 This is a Java-based Number Guessing Game where the system generates a random number between 1 and 100.  
 The user guesses the number using a dialog box.  
@@ -27,9 +30,6 @@ Hints are provided after each attempt, and the game supports multiple rounds wit
 1. Open the project in any Java IDE (VS Code / Eclipse / IntelliJ).
 2. Compile and run `NumberGuessingGame.java`.
 3. The game opens using dialog boxes.
-
-## File
-Present in src file
 
 ## Screenshots
 Screenshots are available in the `screenshots` folder.
